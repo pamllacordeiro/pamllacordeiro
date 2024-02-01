@@ -4,7 +4,7 @@
 
 <!--gif-->
 <div align="center">
-    <img width="600" title="girl code" src="https://github.com/pamllacordeiro/pamllacordeiro/assets/153390420/d5385dc0-e1f3-48bb-8a80-44dab937de2e"/>
+    <img width="800" title="girl code" src="https://github.com/pamllacordeiro/pamllacordeiro/assets/153390420/d5385dc0-e1f3-48bb-8a80-44dab937de2e"/>
 <div>
   
 
