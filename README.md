@@ -1,6 +1,8 @@
 ## 👩🏿‍💻 Pamella Cordeiro
 
-Olá, mundo! Sou Pamella Cordeiro, analista de TI e estudante de Análise e Desenvolvimento de Sistemas na IBMR.
+**`Desenvolvedora FullStack`**
+
+Olá, mundo!👽 Me chamo Pamella Cordeiro, Analista de TI e estudante de Análise e Desenvolvimento de Sistemas na IBMR. Apaixonada por tecnologia, estou estudando com dedicação para me tornar uma desenvolvedora full-stack.
 
 ---
 
