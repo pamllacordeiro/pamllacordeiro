@@ -1,11 +1,8 @@
+## Pamella Cordeiro 
 
-## Hello, World. <br>Me chamo Pamella Cordeiro. :computer:
+**Analista de Infraestrutura de TI Jr.**
 
-<div style="max-width: 100%;">
-    <img src="img.gif" width="325px" style="max-width: 100%; display: block; margin: auto;" align="right">
-</div>
+Sou Analista de Infraestrutura de TI Jr. com paixão por tecnologia, cinema e astronomia.
+Atualmente curso Análise e Desenvolvimento de Sistemas (2º período - IBMR) e estou me aprofundando em Python, Linux e Inteligência Artificial.
 
-- Sou Analista de InfraCloud Jr.
-- Estudante de Análise e Desenvolvimento de Sistemas -IBMR (2° período)
-
-:seedling: Atualmente estudando Python e IA.
+"Simples é melhor que complexo." — Zen do Python
