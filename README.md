@@ -1,7 +1,7 @@
 ## Pamella Cordeiro 💻 
 
 
-### Cloud/On-Premise
+### ☁️ Cloud/On-Premise
 
 ---
 🛠️ **Escopo Técnico (Infraestrutura Híbrida):**
