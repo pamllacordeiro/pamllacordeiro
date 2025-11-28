@@ -1,7 +1,7 @@
 ## Pamella Cordeiro 💻 
 
 
-### Cloud/On-Premise SysAdmin & SysOps Analyst. 
+### Cloud/On-Premise
 
 ---
 🛠️ **Escopo Técnico (Infraestrutura Híbrida):**
