@@ -13,6 +13,6 @@
 ---
 🎓 **Formação e Aprofundamento:**
 * Analista de Infraestrutura de TI Jr.
-* Estudante de Análise e Desenvolvimento de Sistemas (2º Período - IBMR).
+* Estudante de Análise e Desenvolvimento de Sistemas (4º Período - IBMR).
 * Foco atual em **DevOps** e **Cibersegurança**.
 
